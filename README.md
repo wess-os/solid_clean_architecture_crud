@@ -10,7 +10,7 @@
 
 ### Arquitetura
 
-![Texto Alternativo](assets/clean_architecture.png)
+
 
 ### Estrutura do projeto
 
