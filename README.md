@@ -18,5 +18,8 @@
     - domain
         - entity
         - gateway
-    - infrastructure
+    - infra
+        - api
+        - repositories
+    - package
     - usecases
